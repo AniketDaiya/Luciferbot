@@ -1,0 +1,13 @@
+{
+  "wake_word": "hey lucifer",
+  "voice_speed": 150,
+  "voice_volume": 0.8,
+  "tts_engine": "pyttsx3",
+  "elevenlabs_key": "",
+  "scrapingdog_key": "YOUR_SCRAPINGDOG_API_KEY",
+  "anthropic_key": "YOUR_ANTHROPIC_API_KEY",
+  "chrome_path": "",
+  "log_level": "INFO",
+  "user_name": "Sir",
+  "hotkey": "f9"
+}

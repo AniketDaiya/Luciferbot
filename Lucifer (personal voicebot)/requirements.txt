@@ -1,0 +1,37 @@
+# Core Voice & Audio
+SpeechRecognition==3.10.1
+pyaudio==0.2.14
+pyttsx3==2.90
+
+# Browser Automation
+selenium==4.17.2
+webdriver-manager==4.0.1
+undetected-chromedriver==3.5.5
+
+# Web Scraping & Parsing
+beautifulsoup4==4.12.3
+requests==2.31.0
+newspaper3k==0.2.8
+readability-lxml==0.8.1
+
+# AI & NLP
+openai==1.12.0
+anthropic==0.25.0
+google-generativeai==0.4.0
+
+# System Automation
+pyautogui==0.9.54
+pycaw==20220416
+
+# Terminal & UI
+rich==13.7.0
+pyfiglet==1.0.2
+colorama==0.4.6
+keyboard==0.13.5
+
+# Utilities
+python-dotenv==1.0.1
+youtube-search-python==1.6.6
+
+# Dashboard (optional - may require tkinter system package)
+# tkinter comes with Python on most systems
