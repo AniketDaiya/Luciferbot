@@ -140,4 +140,3 @@ This application is built on a modular Python architecture with voice, browser, 
 - **API quota exceeded?** Lucifer falls back to local witty responses automatically.
 - **Unicode errors on Windows?** The script auto-configures UTF-8 encoding.
 
-*
