@@ -140,3 +140,14 @@ This application is built on a modular Python architecture with voice, browser, 
 - **API quota exceeded?** Lucifer falls back to local witty responses automatically.
 - **Unicode errors on Windows?** The script auto-configures UTF-8 encoding.
 
+---
+
+## 🤝 Let's Connect & Be Friends!
+
+I built this to learn and experiment. I'd love your feedback, suggestions, and contributions!
+
+*   **GitHub**: [@AniketDaiya](https://github.com/AniketDaiya) 🚀
+*   **LinkedIn**: [in/aniket-daiya-1473b93a3](https://www.linkedin.com/in/aniket-daiya-1473b93a3/) 💼
+
+*If you like this project, drop a ⭐️ on the repo!*
+
