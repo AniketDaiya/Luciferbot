@@ -12,7 +12,7 @@ Welcome to **Lucifer** — a hyper-capable, voice-controlled AI assistant modele
 
 > [!NOTE]
 > 💡 **A Note from the Author:**
-> This project is a **prototype** built entirely for **learning purposes**. It was developed to explore AI-assisted workflows, voice interfaces, browser automation, and multi-agent orchestration. Feel free to fork it, break it, and build upon it!
+> This project is a **prototype** built entirely for **learning purposes** using **Generative AI**. It was developed to explore AI-assisted workflows, voice interfaces, browser automation, and multi-agent orchestration. Feel free to fork it, break it, and build upon it!
 
 ---
 
