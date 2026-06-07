@@ -60,19 +60,7 @@ This application is built on a modular Python architecture with voice, browser, 
     *   Screenshot capture, volume control, time/date queries
     *   Session persistence with rolling log files
 
----
 
-## 📸 Screen Gallery
-
-| 🖥️ Terminal Banner & System Checks | 🎤 Voice Activation & Command Processing |
-| :---: | :---: |
-| ![Terminal Banner](assets/terminal-banner.png) | ![Voice Command](assets/voice-command.png) |
-
-| 🤖 PCE Orchestrator Execution | 📊 System Report & Dashboard |
-| :---: | :---: |
-| ![Orchestrator](assets/orchestrator.png) | ![System Report](assets/system-report.png) |
-
-> *Note: Screenshots are placeholders. Run the project to see the actual terminal UI.*
 
 ---
 
@@ -152,13 +140,4 @@ This application is built on a modular Python architecture with voice, browser, 
 - **API quota exceeded?** Lucifer falls back to local witty responses automatically.
 - **Unicode errors on Windows?** The script auto-configures UTF-8 encoding.
 
----
-
-## 🤝 Let's Connect & Be Friends!
-
-I built this to learn and experiment. I'd love your feedback, suggestions, and contributions!
-
-*   **GitHub**: [@AniketDaiya](https://github.com/AniketDaiya) 🚀
-*   **LinkedIn**: [in/aniket-daiya-1473b93a3](https://www.linkedin.com/in/aniket-daiya-1473b93a3/) 💼
-
-*If you like this project, drop a ⭐️ on the repo!*
+*
